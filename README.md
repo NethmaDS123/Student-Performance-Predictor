@@ -1,5 +1,7 @@
 # Student-Performance-Predictor
 
+Video link - https://drive.google.com/drive/folders/1_R4wih011o3hTRHnTvN5kFZiiYbuUVtq?usp=sharing
+
 This project uses a machine learning approach to predict student performance based on various features such as demographics, academic history, and personal attributes. By leveraging a neural network built with TensorFlow/Keras, the model predicts the final grade (G3) of students in a standardized format.
 
 # Features
